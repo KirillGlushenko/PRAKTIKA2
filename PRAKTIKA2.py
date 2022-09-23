@@ -118,3 +118,4 @@ oblast = {'Город в Астраханской области': 'Астрах
 print("\n")
 for gorod in oblast:
   print(f'{gorod} - город {oblast[gorod]}')
+# Результат самостоятельного задания: https://clck.ru/328c4v
